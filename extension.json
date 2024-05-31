@@ -1,0 +1,14 @@
+{
+"builtin": "False",
+"default_enabled": "True",
+"type": "extension",
+"rocket_mode_compatible": "True",
+"name": "babar",
+"description": "Barre d'outils pour abcp",
+"author": "Jean-Marc Couffin",
+"author_profile": "https://github.com/jmcouffin",
+"url": "https://github.com/jmcouffin/pydy_abcp.git",
+"website": "https://bimone.com",
+"image": "",
+"dependencies": []
+}
